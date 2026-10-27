@@ -1,0 +1,14 @@
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/obj/Debug/net10.0/C#Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/obj/Debug/net10.0/C#Basics.AssemblyInfoInputs.cache
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/obj/Debug/net10.0/C#Basics.AssemblyInfo.cs
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/obj/Debug/net10.0/C#Basics.csproj.CoreCompileInputs.cache
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/bin/Debug/net10.0/C#Basics
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/bin/Debug/net10.0/C#Basics.deps.json
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/bin/Debug/net10.0/C#Basics.runtimeconfig.json
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/bin/Debug/net10.0/C#Basics.dll
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/bin/Debug/net10.0/C#Basics.pdb
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/obj/Debug/net10.0/C#Basics.dll
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/obj/Debug/net10.0/refint/C#Basics.dll
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/obj/Debug/net10.0/C#Basics.pdb
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/obj/Debug/net10.0/C#Basics.genruntimeconfig.cache
+/Users/bhagi/Desktop/KavyaCareer/PersonalProjects/CSharpCoding/C#Basics/obj/Debug/net10.0/ref/C#Basics.dll
